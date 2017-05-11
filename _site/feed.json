@@ -1,0 +1,78 @@
+{
+	"title": "Manton Reece",
+	"home_page_url": "http://manton.micro.blog/",
+	"feed_url": "http://manton.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "/2017/05/11/testing-again-for.html",
+			"content_html": "<p>Testing again for GitHub.</p>\n",
+			"date_published": "2017-05-11T14:18:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/11/testing-again-for.html"
+		},
+		
+		{
+			"id": "/2017/05/11/testing-new-github.html",
+			"content_html": "<p>Testing new GitHub sync.</p>\n",
+			"date_published": "2017-05-11T13:59:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/11/testing-new-github.html"
+		},
+		
+		{
+			"id": "/2017/05/10/testing-with-a.html",
+			"content_html": "<p>Testing with a bunch longer post with <a href=\"http://www.manton.org/\">a link</a>. Hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello.</p>\n",
+			"date_published": "2017-05-10T22:50:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/10/testing-with-a.html"
+		},
+		
+		{
+			"id": "/2017/05/10/test-of-new.html",
+			"content_html": "<p>Test of new cross-posting with <a href=\"http://www.manton.org/\">links like this</a>.</p>\n",
+			"date_published": "2017-05-10T22:47:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/10/test-of-new.html"
+		},
+		
+		{
+			"id": "/2017/05/10/testing-from-todayposter.html",
+			"content_html": "<p>Testing from TodayPoster.</p>\n",
+			"date_published": "2017-05-10T12:16:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/10/testing-from-todayposter.html"
+		},
+		
+		{
+			"id": "/2017/05/06/another-test-of.html",
+			"content_html": "<p>Another test of cross-posting, now with correct test data.</p>\n",
+			"date_published": "2017-05-06T20:50:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/06/another-test-of.html"
+		},
+		
+		{
+			"id": "/2017/05/06/testing-the-new.html",
+			"content_html": "<p>Testing the new cross-posting fixes.</p>\n",
+			"date_published": "2017-05-06T20:28:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/06/testing-the-new.html"
+		},
+		
+		{
+			"id": "/2017/05/05/testing-new-build.html",
+			"content_html": "<p>Testing new build.</p>\n",
+			"date_published": "2017-05-05T19:25:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/05/testing-new-build.html"
+		},
+		
+		{
+			"id": "/2017/05/05/testing-new-autolinking.html",
+			"content_html": "<p>Testing new auto-linking like this URL: <a href=\"http://www.manton.org/2017/\">www.manton.org/2017/</a></p>\n",
+			"date_published": "2017-05-05T17:48:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/05/testing-new-autolinking.html"
+		},
+		
+		{
+			"id": "/2017/05/03/145652.html",
+			"content_html": "<p>Another photo.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/f1692bf577.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-03T14:56:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/03/145652.html"
+		}
+		
+	]
+}
