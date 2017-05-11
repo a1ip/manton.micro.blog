@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2017-04-27 19:51
+---
+Another photo test.
+
+<img src="http://manton.micro.blog/uploads/2017/8cd0f325d3.jpg" width="600" height="600" style="height: auto" />
