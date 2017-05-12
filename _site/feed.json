@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "/2017/05/12/another-test-with.html",
+			"content_html": "<p>Another test with links: <a href=\"http://www.manton.org/\">www.manton.org</a></p>\n",
+			"date_published": "2017-05-12T20:00:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/12/another-test-with.html"
+		},
+		
+		{
 			"id": "/2017/05/12/testing-from-latest.html",
 			"content_html": "<p>Testing from latest iPhone version.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/d56e74208f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-12T16:33:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>Another test of cross-posting, now with correct test data.</p>\n",
 			"date_published": "2017-05-06T20:50:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/06/another-test-of.html"
-		},
-		
-		{
-			"id": "/2017/05/06/testing-the-new.html",
-			"content_html": "<p>Testing the new cross-posting fixes.</p>\n",
-			"date_published": "2017-05-06T20:28:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/06/testing-the-new.html"
 		}
 		
 	]
