@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "/2017/05/13/test-post-with.html",
+			"content_html": "<p>Test post with new pinging.</p>\n",
+			"date_published": "2017-05-13T13:56:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/13/test-post-with.html"
+		},
+		
+		{
 			"id": "/2017/05/12/another-test-with.html",
 			"content_html": "<p>Another test with links: <a href=\"http://www.manton.org/\">www.manton.org</a></p>\n",
 			"date_published": "2017-05-12T20:00:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>Testing from TodayPoster.</p>\n",
 			"date_published": "2017-05-10T12:16:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/10/testing-from-todayposter.html"
-		},
-		
-		{
-			"id": "/2017/05/06/another-test-of.html",
-			"content_html": "<p>Another test of cross-posting, now with correct test data.</p>\n",
-			"date_published": "2017-05-06T20:50:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/06/another-test-of.html"
 		}
 		
 	]
