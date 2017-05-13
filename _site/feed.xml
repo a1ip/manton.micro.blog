@@ -4,8 +4,16 @@
     <title>Manton Reece</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://manton.micro.blog/</link>
-    <pubDate>Fri, 12 May 2017 20:06:31 +0000</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 20:06:31 +0000</lastBuildDate>
+    <pubDate>Sat, 13 May 2017 13:56:34 +0000</pubDate>
+    <lastBuildDate>Sat, 13 May 2017 13:56:34 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Test post with new pinging.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 May 2017 13:56:00 +0000</pubDate>
+        <link>http://manton.micro.blog/2017/05/13/test-post-with.html</link>
+        <guid isPermaLink="true">http://manton.micro.blog/2017/05/13/test-post-with.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;Another test with links: &lt;a href=&quot;http://www.manton.org/&quot;&gt;www.manton.org&lt;/a&gt;&lt;/p&gt;
