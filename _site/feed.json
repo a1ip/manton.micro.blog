@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "/2017/05/15/testing-rss-order.html",
+			"content_html": "<p>Testing RSS order fix.</p>\n",
+			"date_published": "2017-05-15T11:25:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/15/testing-rss-order.html"
+		},
+		
+		{
 			"id": "/2017/05/13/testing-tree-photoimg.html",
 			"content_html": "<p>Testing tree photo.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/f7443b5425.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-13T21:48:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>Testing new GitHub sync.</p>\n",
 			"date_published": "2017-05-11T13:59:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/11/testing-new-github.html"
-		},
-		
-		{
-			"id": "/2017/05/10/testing-with-a.html",
-			"content_html": "<p>Testing with a bunch longer post with <a href=\"http://www.manton.org/\">a link</a>. Hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello.</p>\n",
-			"date_published": "2017-05-10T22:50:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/10/testing-with-a.html"
 		}
 		
 	]
