@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "/2017/05/15/testing-monday-morning.html",
+			"content_html": "<p>Testing. Monday morning!</p>\n",
+			"date_published": "2017-05-15T13:06:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/15/testing-monday-morning.html"
+		},
+		
+		{
 			"id": "/2017/05/15/testing-rss-order.html",
 			"content_html": "<p>Testing RSS order fix.</p>\n",
 			"date_published": "2017-05-15T11:25:00+00:00",
@@ -65,13 +72,6 @@
 			"content_html": "<p>Testing again for GitHub.</p>\n",
 			"date_published": "2017-05-11T14:18:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/11/testing-again-for.html"
-		},
-		
-		{
-			"id": "/2017/05/11/testing-new-github.html",
-			"content_html": "<p>Testing new GitHub sync.</p>\n",
-			"date_published": "2017-05-11T13:59:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/11/testing-new-github.html"
 		}
 		
 	]
