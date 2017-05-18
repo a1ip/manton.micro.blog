@@ -1,8 +1,16 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Manton Reece",
 	"home_page_url": "http://manton.micro.blog/",
 	"feed_url": "http://manton.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "/2017/05/18/testing-version-on.html",
+			"content_html": "<p>Testing version on JSON Feed templates.</p>\n",
+			"date_published": "2017-05-18T22:10:00+00:00",
+			"url": "http://manton.micro.blog/2017/05/18/testing-version-on.html"
+		},
 		
 		{
 			"id": "/2017/05/13/testing-tree-photoimg.html",
@@ -65,13 +73,6 @@
 			"content_html": "<p>Testing photos.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/0ff3cac7fb.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-03T14:39:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/03/143947.html"
-		},
-		
-		{
-			"id": "/2017/05/03/test-photosimg-srchttpmantonmicrobloguploadsbfjpg.html",
-			"content_html": "<p>Test photos.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/735b8f8830.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T14:38:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/03/test-photosimg-srchttpmantonmicrobloguploadsbfjpg.html"
 		}
 		
 	]
