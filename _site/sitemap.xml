@@ -3,21 +3,6 @@
   
     
     <url>
-      <loc>http://manton.micro.blog/2017/05/18/testing-version-on.html/</loc>
-      
-        <lastmod>2017-05-18T22:10:00+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.7</priority>
-      
-    </url>
-    
-  
-    
-    <url>
       <loc>http://manton.micro.blog/2017/05/13/testing-tree-photoimg.html/</loc>
       
         <lastmod>2017-05-13T21:48:00+00:00</lastmod>
@@ -428,7 +413,7 @@
     <url>
       <loc>http://manton.micro.blog/about/</loc>
       
-        <lastmod>2017-05-22T22:18:04+00:00</lastmod>
+        <lastmod>2017-05-29T20:02:56+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -447,7 +432,7 @@
     <url>
       <loc>http://manton.micro.blog/</loc>
       
-        <lastmod>2017-05-22T22:18:04+00:00</lastmod>
+        <lastmod>2017-05-29T20:02:56+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -466,7 +451,7 @@
     <url>
       <loc>http://manton.micro.blog/rsd.xml</loc>
       
-        <lastmod>2017-05-22T22:18:04+00:00</lastmod>
+        <lastmod>2017-05-29T20:02:56+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -477,6 +462,21 @@
     </url>
     
   
+    
+  
+    
+    <url>
+      <loc>http://manton.micro.blog/page/2/</loc>
+      
+        <lastmod>2017-05-29T20:02:56+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.9</priority>
+      
+    </url>
     
   
 </urlset>
