@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://manton.micro.blog/2017/06/26/test-with-micropub.html",
+			"content_html": "<p>Test with micropub change for dates.</p>\n",
+			"date_published": "2017-06-26T20:28:00+00:00",
+			"url": "http://manton.micro.blog/2017/06/26/test-with-micropub.html"
+		},
+		
+		{
 			"id": "http://manton.micro.blog/2017/06/13/213200.html",
 			"content_html": "<p>UT yesterday.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/850f2a6a75.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-13T21:32:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Asdfasdf</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/0b2751b277.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-03T14:42:00+00:00",
 			"url": "http://manton.micro.blog/2017/05/03/144240.html"
-		},
-		
-		{
-			"id": "http://manton.micro.blog/2017/05/03/144016.html",
-			"content_html": "<p>Another.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/60ecc37eb9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T14:40:00+00:00",
-			"url": "http://manton.micro.blog/2017/05/03/144016.html"
 		}
 		
 	]
