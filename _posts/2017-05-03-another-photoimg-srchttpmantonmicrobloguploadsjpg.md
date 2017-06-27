@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-03 14:42
+date: 2017-05-03 14:42 -0500
+guid: http://manton.micro.blog/2017/05/03/another-photoimg-srchttpmantonmicrobloguploadsjpg.html
 ---
 Another photo.
 
