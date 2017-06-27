@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-03 14:38
+date: 2017-05-03 14:38 -0500
+guid: http://manton.micro.blog/2017/05/03/test-photosimg-srchttpmantonmicrobloguploadsbfjpg.html
 ---
 Test photos.
 
