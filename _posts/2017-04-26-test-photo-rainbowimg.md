@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-04-26 21:49
+date: 2017-04-26 21:49 -0500
+guid: http://manton.micro.blog/2017/04/26/test-photo-rainbowimg.html
 ---
 Test photo. Rainbow.
 
