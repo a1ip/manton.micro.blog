@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-05-12 11:33 +0500
+date: 2017-05-12 21:33 -0500
 guid: http://manton.micro.blog/2017/05/12/testing-from-latest.html
 ---
 Testing from latest iPhone version.
