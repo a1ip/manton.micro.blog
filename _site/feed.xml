@@ -4,13 +4,21 @@
     <title>Manton Reece</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://micro.manton.org/</link>
-    <pubDate>Tue, 27 Jun 2017 16:08:54 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2017 16:08:54 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 15:05:39 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 15:05:39 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Testing timezones again. Wednesday morning.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jun 2017 05:05:00 +0000</pubDate>
+        <link>http://micro.manton.org/2017/06/28/testing-timezones-again.html</link>
+        <guid isPermaLink="true">http://manton.micro.blog/2017/06/28/testing-timezones-again.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;Testing again.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Jun 2017 11:07:00 +0000</pubDate>
+        <pubDate>Tue, 27 Jun 2017 06:07:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/06/27/testing-again.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/06/27/testing-again.html</guid>
       </item>
@@ -18,7 +26,7 @@
       <item>
         <description>&lt;p&gt;Testing new link and date code.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Jun 2017 10:54:00 +0000</pubDate>
+        <pubDate>Tue, 27 Jun 2017 05:54:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/06/27/testing-new-link.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/06/27/testing-new-link.html</guid>
       </item>
@@ -26,7 +34,7 @@
       <item>
         <description>&lt;p&gt;Test with micropub change for dates.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Jun 2017 15:28:00 +0000</pubDate>
+        <pubDate>Mon, 26 Jun 2017 10:28:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/06/26/test-with-micropub.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/06/26/test-with-micropub.html</guid>
       </item>
@@ -36,7 +44,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/850f2a6a75.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 13 Jun 2017 16:32:00 +0000</pubDate>
+        <pubDate>Tue, 13 Jun 2017 11:32:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/06/13/213200.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/06/13/213200.html</guid>
       </item>
@@ -44,8 +52,8 @@
       <item>
         <description>&lt;p&gt;Test for links: &lt;a href=&quot;https://cleverdevil.io/2017/microblog-json-feed-and-evergreen-give-me-hope-for-the&quot;&gt;cleverdevil.io/2017/micr…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Jun 2017 00:18:00 +0000</pubDate>
-        <link>http://micro.manton.org/2017/06/02/test-for-links.html</link>
+        <pubDate>Thu, 01 Jun 2017 19:18:00 +0000</pubDate>
+        <link>http://micro.manton.org/2017/06/01/test-for-links.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/06/02/test-for-links.html</guid>
       </item>
     
@@ -54,7 +62,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/f7443b5425.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 13 May 2017 16:48:00 +0000</pubDate>
+        <pubDate>Sat, 13 May 2017 11:48:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/13/testing-tree-photoimg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/13/testing-tree-photoimg.html</guid>
       </item>
@@ -64,7 +72,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/d56e74208f.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 May 2017 11:33:00 +0000</pubDate>
+        <pubDate>Fri, 12 May 2017 06:33:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/12/testing-from-latest.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/12/testing-from-latest.html</guid>
       </item>
@@ -74,7 +82,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/f1692bf577.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:56:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:56:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/145652.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/145652.html</guid>
       </item>
@@ -84,7 +92,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/2b866cc8b4.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:46:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:46:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/144651.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/144651.html</guid>
       </item>
@@ -94,7 +102,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/2524943013.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:42:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:42:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/another-photoimg-srchttpmantonmicrobloguploadsjpg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/another-photoimg-srchttpmantonmicrobloguploadsjpg.html</guid>
       </item>
@@ -104,7 +112,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/a3a76e140e.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:42:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:42:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/144258.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/144258.html</guid>
       </item>
@@ -114,7 +122,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/0b2751b277.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:42:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:42:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/144240.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/144240.html</guid>
       </item>
@@ -124,7 +132,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/60ecc37eb9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:40:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:40:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/144016.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/144016.html</guid>
       </item>
@@ -134,7 +142,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/0ff3cac7fb.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:39:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:39:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/143947.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/143947.html</guid>
       </item>
@@ -144,7 +152,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/735b8f8830.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:38:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:38:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/test-photosimg-srchttpmantonmicrobloguploadsbfjpg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/test-photosimg-srchttpmantonmicrobloguploadsbfjpg.html</guid>
       </item>
@@ -154,7 +162,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/a3bf153730.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 09:38:00 +0000</pubDate>
+        <pubDate>Wed, 03 May 2017 04:38:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/03/143835.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/143835.html</guid>
       </item>
@@ -162,7 +170,7 @@
       <item>
         <description>&lt;p&gt;Testing &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 May 2017 19:53:00 +0000</pubDate>
+        <pubDate>Tue, 02 May 2017 14:53:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/02/testing-bold-and.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/testing-bold-and.html</guid>
       </item>
@@ -172,7 +180,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/ce9e6fe003.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 May 2017 19:47:00 +0000</pubDate>
+        <pubDate>Tue, 02 May 2017 14:47:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/02/photo-resize-change.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/03/photo-resize-change.html</guid>
       </item>
@@ -182,7 +190,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/8760d66f6d.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 May 2017 18:59:00 +0000</pubDate>
+        <pubDate>Tue, 02 May 2017 13:59:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/02/test-photoimg-srchttpmantonmicrobloguploadsdfdjpg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/02/test-photoimg-srchttpmantonmicrobloguploadsdfdjpg.html</guid>
       </item>
@@ -192,7 +200,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/6e63ac5d17.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 May 2017 11:38:00 +0000</pubDate>
+        <pubDate>Tue, 02 May 2017 06:38:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/05/02/last-nights-tough.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/02/last-nights-tough.html</guid>
       </item>
@@ -202,15 +210,15 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/d1cfbe6cba.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 May 2017 01:23:00 +0000</pubDate>
-        <link>http://micro.manton.org/2017/05/01/062321.html</link>
+        <pubDate>Sun, 30 Apr 2017 20:23:00 +0000</pubDate>
+        <link>http://micro.manton.org/2017/04/30/062321.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/05/01/062321.html</guid>
       </item>
     
       <item>
         <description>&lt;p&gt;Testing that posting is working again. Happy Saturday morning.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 09:05:00 +0000</pubDate>
+        <pubDate>Sat, 29 Apr 2017 04:05:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/29/testing-that-posting.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/29/testing-that-posting.html</guid>
       </item>
@@ -220,7 +228,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/863e1c5e0b.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 14:57:00 +0000</pubDate>
+        <pubDate>Thu, 27 Apr 2017 09:57:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/27/probably-going-to.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/27/probably-going-to.html</guid>
       </item>
@@ -230,7 +238,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/8cd0f325d3.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 14:51:00 +0000</pubDate>
+        <pubDate>Thu, 27 Apr 2017 09:51:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/27/another-photo-testimg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/27/another-photo-testimg.html</guid>
       </item>
@@ -238,7 +246,7 @@
       <item>
         <description>&lt;p&gt;Testing.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 08:44:00 +0000</pubDate>
+        <pubDate>Thu, 27 Apr 2017 03:44:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/27/testing.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/27/testing.html</guid>
       </item>
@@ -246,7 +254,7 @@
       <item>
         <description>&lt;p&gt;Testing some theme changes.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Apr 2017 19:10:00 +0000</pubDate>
+        <pubDate>Wed, 26 Apr 2017 14:10:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/26/testing-some-theme.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/27/testing-some-theme.html</guid>
       </item>
@@ -256,7 +264,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/afca0d95fe.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Apr 2017 16:49:00 +0000</pubDate>
+        <pubDate>Wed, 26 Apr 2017 11:49:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/26/test-photo-rainbowimg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/26/test-photo-rainbowimg.html</guid>
       </item>
@@ -264,7 +272,7 @@
       <item>
         <description>&lt;p&gt;Sent another update to Kickstarter backers today and also publishing a new Timetable episode soon. This is going to be a fun week.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 11:12:00 +0000</pubDate>
+        <pubDate>Tue, 18 Apr 2017 06:12:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/18/sent-another-update.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/18/sent-another-update.html</guid>
       </item>
@@ -272,7 +280,7 @@
       <item>
         <description>&lt;p&gt;People complain about the Spurs’ guards. But Parker from 3 last night: 3-5. Green: 4-5. Good win despite letting Memphis back in the game.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 11:12:00 +0000</pubDate>
+        <pubDate>Tue, 18 Apr 2017 06:12:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/18/people-complain-about.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/18/people-complain-about.html</guid>
       </item>
@@ -280,7 +288,7 @@
       <item>
         <description>&lt;p&gt;Added intro music to the latest Timetable for some reason. Borrowed it from Apple’s Clips app. Just an experiment.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 11:12:00 +0000</pubDate>
+        <pubDate>Tue, 18 Apr 2017 06:12:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/18/added-intro-music.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/18/added-intro-music.html</guid>
       </item>
@@ -290,7 +298,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/235bb078ff.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 10 Apr 2017 09:17:00 +0000</pubDate>
+        <pubDate>Mon, 10 Apr 2017 04:17:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/04/10/view-of-portland.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/04/10/view-of-portland.html</guid>
       </item>
@@ -300,7 +308,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://manton.micro.blog/uploads/2017/4db9ed8b71.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 Mar 2017 09:13:00 +0000</pubDate>
+        <pubDate>Tue, 28 Mar 2017 04:13:00 +0000</pubDate>
         <link>http://micro.manton.org/2017/03/28/backyard-photo-testimg.html</link>
         <guid isPermaLink="true">http://manton.micro.blog/2017/03/28/backyard-photo-testimg.html</guid>
       </item>
