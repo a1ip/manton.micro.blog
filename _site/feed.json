@@ -8,71 +8,71 @@
 		{
 			"id": "http://manton.micro.blog/2017/06/28/testing-timezones-again.html",
 			"content_html": "<p>Testing timezones again. Wednesday morning.</p>\n",
-			"date_published": "2017-06-28T05:05:00+00:00",
-			"url": "http://micro.manton.org/2017/06/28/testing-timezones-again.html"
+			"date_published": "2017-06-29T01:05:00+00:00",
+			"url": "http://micro.manton.org/2017/06/29/testing-timezones-again.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/06/27/testing-again.html",
 			"content_html": "<p>Testing again.</p>\n",
-			"date_published": "2017-06-27T06:07:00+00:00",
-			"url": "http://micro.manton.org/2017/06/27/testing-again.html"
+			"date_published": "2017-06-28T02:07:00+00:00",
+			"url": "http://micro.manton.org/2017/06/28/testing-again.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/06/27/testing-new-link.html",
 			"content_html": "<p>Testing new link and date code.</p>\n",
-			"date_published": "2017-06-27T05:54:00+00:00",
-			"url": "http://micro.manton.org/2017/06/27/testing-new-link.html"
+			"date_published": "2017-06-28T01:54:00+00:00",
+			"url": "http://micro.manton.org/2017/06/28/testing-new-link.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/06/26/test-with-micropub.html",
 			"content_html": "<p>Test with micropub change for dates.</p>\n",
-			"date_published": "2017-06-26T10:28:00+00:00",
-			"url": "http://micro.manton.org/2017/06/26/test-with-micropub.html"
+			"date_published": "2017-06-27T06:28:00+00:00",
+			"url": "http://micro.manton.org/2017/06/27/test-with-micropub.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/06/13/213200.html",
 			"content_html": "<p>UT yesterday.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/850f2a6a75.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-13T11:32:00+00:00",
-			"url": "http://micro.manton.org/2017/06/13/213200.html"
+			"date_published": "2017-06-14T07:32:00+00:00",
+			"url": "http://micro.manton.org/2017/06/14/213200.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/06/02/test-for-links.html",
 			"content_html": "<p>Test for links: <a href=\"https://cleverdevil.io/2017/microblog-json-feed-and-evergreen-give-me-hope-for-the\">cleverdevil.io/2017/micr…</a></p>\n",
-			"date_published": "2017-06-01T19:18:00+00:00",
-			"url": "http://micro.manton.org/2017/06/01/test-for-links.html"
+			"date_published": "2017-06-02T15:18:00+00:00",
+			"url": "http://micro.manton.org/2017/06/02/test-for-links.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/05/13/testing-tree-photoimg.html",
 			"content_html": "<p>Testing tree photo.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/f7443b5425.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-13T11:48:00+00:00",
-			"url": "http://micro.manton.org/2017/05/13/testing-tree-photoimg.html"
+			"date_published": "2017-05-14T07:48:00+00:00",
+			"url": "http://micro.manton.org/2017/05/14/testing-tree-photoimg.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/05/12/testing-from-latest.html",
 			"content_html": "<p>Testing from latest iPhone version.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/d56e74208f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-12T06:33:00+00:00",
-			"url": "http://micro.manton.org/2017/05/12/testing-from-latest.html"
+			"date_published": "2017-05-13T02:33:00+00:00",
+			"url": "http://micro.manton.org/2017/05/13/testing-from-latest.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/05/03/145652.html",
 			"content_html": "<p>Another photo.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/f1692bf577.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T04:56:00+00:00",
-			"url": "http://micro.manton.org/2017/05/03/145652.html"
+			"date_published": "2017-05-04T00:56:00+00:00",
+			"url": "http://micro.manton.org/2017/05/04/145652.html"
 		},
 		
 		{
 			"id": "http://manton.micro.blog/2017/05/03/144651.html",
 			"content_html": "<p>Testing.</p>\n\n<p><img src=\"http://manton.micro.blog/uploads/2017/2b866cc8b4.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T04:46:00+00:00",
-			"url": "http://micro.manton.org/2017/05/03/144651.html"
+			"date_published": "2017-05-04T00:46:00+00:00",
+			"url": "http://micro.manton.org/2017/05/04/144651.html"
 		}
 		
 	]
