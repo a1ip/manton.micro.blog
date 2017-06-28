@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-27 14:51 +0500
+date: 2017-04-28 00:51 -0500
 guid: http://manton.micro.blog/2017/04/27/another-photo-testimg.html
 ---
 Another photo test.
