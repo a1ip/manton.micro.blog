@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-03-28 09:13 +0500
+date: 2017-03-28 19:13 -0500
 guid: http://manton.micro.blog/2017/03/28/backyard-photo-testimg.html
 ---
 Backyard photo test.
