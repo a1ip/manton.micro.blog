@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-27 14:57 +0500
+date: 2017-04-28 00:57 -0500
 guid: http://manton.micro.blog/2017/04/27/probably-going-to.html
 ---
 Probably going to be a lot of sky test photos.
