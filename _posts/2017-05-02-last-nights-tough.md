@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-05-02 11:38 +0500
+date: 2017-05-02 21:38 -0500
 guid: http://manton.micro.blog/2017/05/02/last-nights-tough.html
 ---
 Last night's tough loss to the Rockets.
