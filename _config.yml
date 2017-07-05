@@ -50,6 +50,7 @@ full_name: "Manton Reece"
 bio: ""
 twitter_username: ""
 github_username: "manton"
+instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
