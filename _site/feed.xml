@@ -4,8 +4,16 @@
     <title>Manton Reece</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://micro.manton.org/</link>
-    <pubDate>Wed, 05 Jul 2017 09:15:03 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 09:15:03 -0500</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 09:16:59 -0500</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 09:16:59 -0500</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;@manton Testing replies.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Jul 2017 09:16:00 -0500</pubDate>
+        <link>http://micro.manton.org/2017/07/05/manton-testing-replies.html</link>
+        <guid isPermaLink="true">http://manton.micro.blog/2017/07/05/manton-testing-replies.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;Testing from Micropub API.&lt;/p&gt;
