@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://manton.micro.blog/2017/07/13/testing-ssl-certs.html",
+			"content_html": "<p>Testing SSL certs.</p>\n",
+			"date_published": "2017-07-13T15:03:00-05:00",
+			"url": "http://micro.manton.org/2017/07/13/testing-ssl-certs.html"
+		},
+		
+		{
 			"id": "http://manton.micro.blog/2017/07/10/testing.html",
 			"content_html": "<p>Testing.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2017/1e3490d475.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2017-07-10T09:01:00-05:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Photo test from last week.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2017/065fd65b25.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-02T13:16:00-05:00",
 			"url": "http://micro.manton.org/2017/07/02/photo-test-from.html"
-		},
-		
-		{
-			"id": "http://manton.micro.blog/2017/06/29/new-post.html",
-			"content_html": "<p>New post.</p>\n",
-			"date_published": "2017-06-29T08:49:00-05:00",
-			"url": "http://micro.manton.org/2017/06/29/new-post.html"
 		}
 		
 	]
