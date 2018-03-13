@@ -1,5 +1,7 @@
 ---
 layout: post
+microblog: true
+audio: 
 date: 2017-05-12 11:33 -0500
 guid: http://manton.micro.blog/2017/05/12/testing-from-latest.html
 ---
