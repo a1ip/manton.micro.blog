@@ -1,5 +1,7 @@
 ---
 layout: post
+microblog: true
+audio: 
 date: 2017-04-26 16:49 -0500
 guid: http://manton.micro.blog/2017/04/26/test-photo-rainbowimg.html
 ---
