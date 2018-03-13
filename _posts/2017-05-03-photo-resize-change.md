@@ -1,5 +1,7 @@
 ---
 layout: post
+microblog: true
+audio: 
 date: 2017-05-02 19:47 -0500
 guid: http://manton.micro.blog/2017/05/03/photo-resize-change.html
 ---
