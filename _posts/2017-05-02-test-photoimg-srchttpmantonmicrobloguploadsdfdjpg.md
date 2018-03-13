@@ -1,5 +1,7 @@
 ---
 layout: post
+microblog: true
+audio: 
 date: 2017-05-02 18:59 -0500
 guid: http://manton.micro.blog/2017/05/02/test-photoimg-srchttpmantonmicrobloguploadsdfdjpg.html
 ---
