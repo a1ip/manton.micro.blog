@@ -1,5 +1,7 @@
 ---
 layout: post
+microblog: true
+audio: 
 date: 2017-05-13 16:48 -0500
 guid: http://manton.micro.blog/2017/05/13/testing-tree-photoimg.html
 ---
