@@ -1,17 +1,5 @@
 ---
-layout: page
-title: Microblog
-sitemap:
-  priority: 0.9
+profile: true
 ---
 
-<ul class="list-posts h-feed">
-    {% for post in site.posts %}
-        <li class="post-teaser h-entry">
-			<span class="post-teaser__title e-content">{{ post.content }}</span>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
-                <span class="post-teaser__date"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%d %B %Y" }}</time></span>
-            </a>
-        </li>
-    {% endfor %}
-</ul>
+{% include post-list.html %}
